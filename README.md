@@ -1,2 +1,1 @@
-# hphuoc09061
-1
+my cs106 - AI repo assignment
