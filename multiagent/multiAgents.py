@@ -433,7 +433,7 @@ def betterEvaluationFunction(currentGameState):
     closestScaredGhost = 100
     cnt = 1
     if len(ghostDistance) == 0:
-        evalGhost = -300
+        evalGhost = 300
 
     for ghost in ghostDistance:
         if ghost[0] > 0:
